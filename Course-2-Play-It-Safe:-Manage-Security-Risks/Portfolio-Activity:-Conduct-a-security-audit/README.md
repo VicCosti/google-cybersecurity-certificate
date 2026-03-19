@@ -33,8 +33,8 @@ The IT manager established the audit scope and goals, listed current assets, and
 
 | File | Description |
 |---|---|
-| [`scope-goals-risk-assessment.md`](./scope-goals-risk-assessment.md) | Original audit scope, goals, asset list, and risk assessment |
-| [`controls-compliance-checklist.md`](./controls-compliance-checklist.md) | Completed controls and compliance checklist with findings |
+| [`scope-goals-risk-assessment.pdf`](./Botium_Toys_Scope,_goals,_and_risk_assessment_report.pdf) | Original audit scope, goals, asset list, and risk assessment |
+| [`controls-compliance-checklist.pdf`](./myanswers_Controls_and_compliance_checklist.pdf) | Completed controls and compliance checklist with findings |
 
 ---
 
