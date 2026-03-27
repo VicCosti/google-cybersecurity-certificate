@@ -48,10 +48,14 @@ As a cybersecurity analyst, the task was to:
 
 | File | Description |
 |---|---|
-| [`cybersecurity-incident-report.md`](./cybersecurity-incident-report.md) | Full incident report — tcpdump analysis, findings, and next steps |
-| [`assets/tcpdump_log.jpg`](./tcpdump_log_udp_error.jpg) | Screenshot of the tcpdump log |
-| [`assets/my_answers_incident_report.pdf`](./assets/my_answers_Cybersecurity_incident_report_network_traffic_analysis.pdf) | Original completed report (PDF) |
+| [`tcpdump_log_udp_error.jpg`](./tcpdump_log_udp_error.jpg) | Screenshot of the tcpdump log |
+| [`original_Cybersecurity_incident_report_network_traffic_analysis.pdf`](./original_Cybersecurity_incident_report_network_traffic_analysis.pdf) | Original empty incident report (PDF) |
+| [`my_answers_Cybersecurity_incident_report_network_traffic_analysis.pdf`](./my_answers_Cybersecurity_incident_report_network_traffic_analysis.pdf) | My completed incident report answers (PDF) |
 
+<!--
+| [`cybersecurity-incident-report.md`](./cybersecurity-incident-report.md) | Full incident report — tcpdump analysis, findings, and next steps |
+| [`cybersecurity-incident-report.md`](./cybersecurity-incident-report.md) | Full incident report — tcpdump analysis, findings, and next steps |
+-->
 ---
 
 ## 🧠 Key Concepts Applied
