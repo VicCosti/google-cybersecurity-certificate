@@ -49,7 +49,7 @@ As a cybersecurity analyst, the task was to:
 | File | Description |
 |---|---|
 | [`cybersecurity-incident-report.md`](./cybersecurity-incident-report.md) | Full incident report — tcpdump analysis, findings, and next steps |
-| [`assets/tcpdump_log.jpg`](./tcpdump_log_udp_error_.jpg) | Screenshot of the tcpdump log |
+| [`assets/tcpdump_log.jpg`](./tcpdump_log_udp_error.jpg) | Screenshot of the tcpdump log |
 | [`assets/my_answers_incident_report.pdf`](./assets/my_answers_Cybersecurity_incident_report_network_traffic_analysis.pdf) | Original completed report (PDF) |
 
 ---
