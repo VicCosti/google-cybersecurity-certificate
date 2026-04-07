@@ -47,10 +47,10 @@ As a cybersecurity analyst, the task was to:
 
 | File | Description |
 |---|---|
-| [`Original_cybersecurity_report.pdf`](./0_original_Cybersecurity_incident_report.pdf) | Original Blank report (PDF) |
+| [`Original_cybersecurity_report.pdf`](./original_Cybersecurity_incident_report.pdf) | Original Blank report (PDF) |
 | [`Wireshark_TCP_HTTP_log.pdf`](./Wireshark_TCP_log.pdf) | Wireshark TCP/HTTP log (no color coded) |
 | [`Wireshark_Color_Coded_TCP_HTTP_log.pdf`](./Wireshark_Color_coded_TCP_log.pdf) | Wireshark Color Coded TCP/HTTP log |
-| [`My_cybersecurity_incident_report.pdf`](./3_myanswers_Cybersecurity_incident_report.pdf) | My incident report — attack identification, log analysis, and remediation |
+| [`My_cybersecurity_incident_report.pdf`](./myanswers_Cybersecurity_incident_report.pdf) | My incident report — attack identification, log analysis, and remediation |
 
 
 
