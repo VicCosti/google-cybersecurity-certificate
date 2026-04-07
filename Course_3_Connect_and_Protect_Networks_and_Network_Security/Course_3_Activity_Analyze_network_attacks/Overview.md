@@ -47,11 +47,16 @@ As a cybersecurity analyst, the task was to:
 
 | File | Description |
 |---|---|
-| [`cybersecurity-incident-report.md`](./cybersecurity-incident-report.md) | Full incident report — attack identification, log analysis, and remediation |
-| [`assets/Wireshark_TCP_HTTP_log.xlsx`](./assets/1_original_Wireshark_TCP_HTTP_log.xlsx) | Original Wireshark TCP/HTTP log (color coded) |
-| [`assets/How_to_read_Wireshark_log.pdf`](./assets/2_How_to_read_a_Wireshark_TCP_HTTP_log.pdf) | Reference guide for reading the log |
-| [`assets/my_answers_incident_report.pdf`](./assets/3_myanswers_Cybersecurity_incident_report.pdf) | Original completed report (PDF) |
+| [`Original_cybersecurity_report.pdf`](./0_original_Cybersecurity_incident_report.pdf) | Original Blank report (PDF) |
+| [`Wireshark_TCP_HTTP_log.pdf`](./Wireshark_TCP_log.pdf) | Wireshark TCP/HTTP log (no color coded) |
+| [`Wireshark_Color_Coded_TCP_HTTP_log.pdf`](./Wireshark_Color_coded_TCP_log.pdf) | Wireshark Color Coded TCP/HTTP log |
+| [`My_cybersecurity_incident_report.pdf`](./3_myanswers_Cybersecurity_incident_report.pdf) | My incident report — attack identification, log analysis, and remediation |
 
+
+
+<!--
+
+-->
 ---
 
 ## 🧠 Key Concepts Applied
