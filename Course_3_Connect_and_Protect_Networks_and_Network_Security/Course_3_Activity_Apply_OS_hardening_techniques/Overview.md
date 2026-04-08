@@ -53,7 +53,7 @@ As a cybersecurity analyst, the task was to:
 | File | Description |
 |---|---|
 | [`tcpdump_traffic_log.pdf`](./tcpdump_traffic_log.pdf) | Original tcpdump traffic log |
-| [`My_Completed_security_incident_report.pdf`](./myanswers_Security_incident_report.pdf) | My completed report (PDF) |
+| [`My_Completed_security_incident_report.pdf`](./my_answers_Security_incident_report.pdf) | My completed report (PDF) |
 
 ---
 
