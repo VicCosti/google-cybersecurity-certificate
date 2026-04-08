@@ -52,10 +52,13 @@ As a cybersecurity analyst, the task was to:
 
 | File | Description |
 |---|---|
-| [`security-incident-report.md`](./security-incident-report.md) | Full incident report — protocol analysis, incident documentation, and remediation |
-| [`assets/tcpdump_traffic_log.pdf`](./assets/1_tcpdump_traffic_log.pdf) | Original tcpdump traffic log |
-| [`assets/my_answers_security_incident_report.pdf`](./assets/4_myanswers_Security_incident_report_.pdf) | Original completed report (PDF) |
 
+
+| [`tcpdump_traffic_log.pdf`](./tcpdump_traffic_log.pdf) | Original tcpdump traffic log |
+| [`My_Completed_security_incident_report.pdf`](./myanswers_Security_incident_report.pdf) | My completed report (PDF) |
+<!--
+| [`security-incident-report.md`](./security-incident-report.md) | Full incident report — protocol analysis, incident documentation, and remediation |
+-->
 ---
 
 ## 🧠 Key Concepts Applied
