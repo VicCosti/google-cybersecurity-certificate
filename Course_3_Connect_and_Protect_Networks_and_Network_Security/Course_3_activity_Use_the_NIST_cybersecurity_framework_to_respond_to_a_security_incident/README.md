@@ -33,8 +33,8 @@ As a cybersecurity analyst, the task was to apply the **NIST Cybersecurity Frame
 
 | File | Description |
 |---|---|
-| [`incident-report-analysis.md`](./incident-report-analysis.md) | Full NIST CSF incident report — all five framework functions |
-| [`assets/my_answers_incident_report_analysis.pdf`](./assets/3_firstanswers_Incident_report_analysis.pdf) | Original completed report (PDF) |
+| [`Applying_NIST_CSF.pdf`](./Applying_the_NIST_CSF.pdf) | Full NIST CSF incident report — all five framework functions (PDF) |
+| [`my_answers_incident_report_analysis.pdf`](./myanswers_Incident_report_analysis.pdf) | My completed report (PDF) |
 
 ---
 
