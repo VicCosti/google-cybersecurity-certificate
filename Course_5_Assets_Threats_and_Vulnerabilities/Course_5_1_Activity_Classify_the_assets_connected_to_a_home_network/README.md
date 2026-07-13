@@ -64,8 +64,8 @@ An external device that connects to the home network and is frequently used outs
 
 | File | Description |
 |---|---|
-| [`assets/1_empty_Home_asset_inventory.pdf`](./assets/1_empty_Home_asset_inventory.pdf) | Original blank template provided by the course |
-| [`assets/2_completed_Home_asset_inventory.pdf`](./assets/2_completed_Home_asset_inventory.pdf) | Completed asset inventory with all 6 devices classified |
+| [`1_empty_Home_asset_inventory.pdf`](./1_empty_Home_asset_inventory.pdf) | Original blank template provided by the course |
+| [`2_completed_Home_asset_inventory.pdf`](./2_completed_Home_asset_inventory.pdf) | Completed asset inventory with all 6 devices classified |
 
 ---
 
