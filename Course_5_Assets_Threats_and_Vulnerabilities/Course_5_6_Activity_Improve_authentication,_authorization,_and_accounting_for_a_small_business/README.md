@@ -69,9 +69,9 @@ The critical problem is that **this account should have been inactive and withou
 
 | File | Description |
 |---|---|
-| [`assets/1_support_Event_Log.pdf`](./assets/1788107235535_1_support_part_1_Event_Log_Accounting_exercise.pdf) | Event log from the payroll system |
-| [`assets/1_support_Employee_directory.pdf`](./assets/1788107235534_1_support_part_2_Employee_directory_Accounting_exercise.pdf) | Employee directory with IP addresses and authorization levels |
-| [`assets/2_my_answers_Access_control_worksheet.pdf`](./assets/1788107257962_2_my_answers_Access_control_worksheet.pdf) | My completed access controls worksheet |
+| [`assets/1_support_Event_Log.pdf`](./assets/1_support_part_1_Event_Log_Accounting_exercise.pdf) | Event log from the payroll system |
+| [`assets/1_support_Employee_directory.pdf`](./assets/1_support_part_2_Employee_directory_Accounting_exercise.pdf) | Employee directory with IP addresses and authorization levels |
+| [`assets/2_my_answers_Access_control_worksheet.pdf`](./assets/2_my_answers_Access_control_worksheet.pdf) | My completed access controls worksheet |
 
 ---
 
