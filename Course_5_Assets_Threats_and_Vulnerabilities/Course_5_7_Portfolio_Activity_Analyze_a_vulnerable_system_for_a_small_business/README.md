@@ -86,8 +86,8 @@ The most critical threat. A hacktivist could alter or permanently delete critica
 
 | File | Description |
 |---|---|
-| [`assets/1_NIST_SP_800-30_Rev1_reference.pdf`](./assets/1788342731135_1_supporting_material_NIST_SP_800-30_Rev__1.pdf) | NIST SP 800-30 Rev. 1 reference guide used for the assessment |
-| [`assets/2_mycompletedwork_Vulnerability_assessment_report.pdf`](./assets/1788342744315_2_mycompletedwork_Vulnerability_assessment_report.pdf) | My completed vulnerability assessment report |
+| [`assets/1_NIST_SP_800-30_Rev1_reference.pdf`](./assets/1_supporting_material_NIST_SP_800-30_Rev__1.pdf) | NIST SP 800-30 Rev. 1 reference guide used for the assessment |
+| [`assets/2_mycompletedwork_Vulnerability_assessment_report.pdf`](./assets/2_mycompletedwork_Vulnerability_assessment_report.pdf) | My completed vulnerability assessment report |
 
 ---
 
