@@ -114,9 +114,9 @@ User data
 
 | File | Description |
 |---|---|
-| [`assets/1_PASTA_data_flow_diagram.pdf`](./assets/1789488180573_1_support_material_1_PASTA_data_flow_diagram.pdf) | Data flow diagram — product search process |
-| [`assets/2_PASTA_attack_tree.pdf`](./assets/1789488180573_2_support_material_2_PASTA_attack_tree.pdf) | Sample attack tree — SQL injection and session hijacking |
-| [`assets/3_completed_PASTA_worksheet.pdf`](./assets/1789488261807_3_completed_work_PASTA_worksheet.pdf) | My completed PASTA worksheet |
+| [`assets/1_PASTA_data_flow_diagram.pdf`](./assets/1_support_material_1_PASTA_data_flow_diagram.pdf) | Data flow diagram — product search process |
+| [`assets/2_PASTA_attack_tree.pdf`](./assets/2_support_material_2_PASTA_attack_tree.pdf) | Sample attack tree — SQL injection and session hijacking |
+| [`assets/3_completed_PASTA_worksheet.pdf`](./assets/3_completed_work_PASTA_worksheet.pdf) | My completed PASTA worksheet |
 
 ---
 
