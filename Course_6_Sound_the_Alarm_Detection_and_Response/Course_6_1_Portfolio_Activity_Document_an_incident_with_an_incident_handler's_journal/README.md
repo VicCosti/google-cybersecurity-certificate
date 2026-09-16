@@ -73,7 +73,7 @@ Security awareness training for employees should be implemented immediately to p
 
 | File | Description |
 |---|---|
-| [`assets/journal_entry_01.pdf`](./assets/0_completed_work_Incident_handler_s_journal.pdf) | Original completed journal entry (PDF) |
+| [`assets/journal_entry_01.pdf`](./assets/0_completed_work_Incident_handler's_journal.pdf) | Original completed journal entry (PDF) |
 
 ---
 
