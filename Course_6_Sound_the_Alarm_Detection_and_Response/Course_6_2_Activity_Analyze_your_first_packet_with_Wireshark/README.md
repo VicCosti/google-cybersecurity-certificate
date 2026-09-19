@@ -164,22 +164,22 @@ The filter reveals that the HTTP requests were made using **curl** — a command
 
 | File | Description |
 |---|---|
-| [`assets/Task_1_1_full_traffic.png`](./assets/Task_1_1.png) | Full traffic view — 200 packets, no filter |
-| [`assets/Task_1_3_filtered_ip_addr.png`](./assets/Task_1_3.png) | Filter `ip.addr == 142.250.1.139` — 16 packets |
-| [`assets/Task_2_1_packet64_syn_popup.png`](./assets/Task_2_1.png) | Packet 64 popup — TCP SYN flags detail |
-| [`assets/Task_2_3_ip_src_filter.png`](./assets/Task_2_3.png) | Filter `ip.src == 142.250.1.139` — 7 packets |
-| [`assets/Task_2_7_ip_dst_filter.png`](./assets/Task_2_7.png) | Filter `ip.dst == 142.250.1.139` — 9 packets |
-| [`assets/Task_3_1_eth_addr_filter.png`](./assets/Task_3_1.png) | Filter `eth.addr == 42:01:ac:15:e0:02` — packet 1 SSH |
-| [`assets/Task_3_4_packet1_ssh_detail.png`](./assets/Task_3_4.png) | Packet 1 IPv4 detail — SSH to `35.235.244.34` |
-| [`assets/Task_3_7_udp_port_53_filter.png`](./assets/Task_3_7.png) | Filter `udp.port == 53` — 22 DNS packets |
-| [`assets/Task_3_12_packet12_dns_detail.png`](./assets/Task_3_12.png) | Packet 12 DNS response — 6 answers for `opensource.google.com` |
-| [`assets/Task_4_1_tcp_port_80_filter.png`](./assets/Task_4_1.png) | Filter `tcp.port == 80` — 26 HTTP packets |
-| [`assets/Task_4_9_packet37_ttl_detail.png`](./assets/Task_4_9.png) | Packet 37 IP detail — TTL and header length highlighted |
-| [`assets/Task_5_1_tcp_contains_curl.png`](./assets/Task_5_1.png) | Filter `tcp contains "curl"` — 2 packets |
-| [`assets/Task_5_3_1_packet67_http_detail.png`](./assets/Task_5_3_1.png) | Packet 67 HTTP GET — curl User-Agent, frame detail |
-| [`assets/Task_5_3_2_packet67_ip_layer.png`](./assets/Task_5_3_2.png) | Packet 67 IPv4 layer expanded |
-| [`assets/Task_5_3_3_packet67_http_layer.png`](./assets/Task_5_3_3.png) | Packet 67 HTTP layer — Hypertext Transfer Protocol highlighted |
-| [`assets/Task_5_6_curl_http_full.png`](./assets/Task_5_6.png) | Full view of curl HTTP packets with packet detail |
+| [`assets/Task_1_1_full_traffic.png`](./assets/Task_1.1.png) | Full traffic view — 200 packets, no filter |
+| [`assets/Task_1_3_filtered_ip_addr.png`](./assets/Task_1.3.png) | Filter `ip.addr == 142.250.1.139` — 16 packets |
+| [`assets/Task_2_1_packet64_syn_popup.png`](./assets/Task_2.1.png) | Packet 64 popup — TCP SYN flags detail |
+| [`assets/Task_2_3_ip_src_filter.png`](./assets/Task_2.3.png) | Filter `ip.src == 142.250.1.139` — 7 packets |
+| [`assets/Task_2_7_ip_dst_filter.png`](./assets/Task_2.7.png) | Filter `ip.dst == 142.250.1.139` — 9 packets |
+| [`assets/Task_3_1_eth_addr_filter.png`](./assets/Task_3.1.png) | Filter `eth.addr == 42:01:ac:15:e0:02` — packet 1 SSH |
+| [`assets/Task_3_4_packet1_ssh_detail.png`](./assets/Task_3.4.png) | Packet 1 IPv4 detail — SSH to `35.235.244.34` |
+| [`assets/Task_3_7_udp_port_53_filter.png`](./assets/Task_3.7.png) | Filter `udp.port == 53` — 22 DNS packets |
+| [`assets/Task_3_12_packet12_dns_detail.png`](./assets/Task_3.12.png) | Packet 12 DNS response — 6 answers for `opensource.google.com` |
+| [`assets/Task_4_1_tcp_port_80_filter.png`](./assets/Task_4.1.png) | Filter `tcp.port == 80` — 26 HTTP packets |
+| [`assets/Task_4_9_packet37_ttl_detail.png`](./assets/Task_4.9.png) | Packet 37 IP detail — TTL and header length highlighted |
+| [`assets/Task_5_1_tcp_contains_curl.png`](./assets/Task_5.1.png) | Filter `tcp contains "curl"` — 2 packets |
+| [`assets/Task_5_3_1_packet67_http_detail.png`](./assets/Task_5.3.1.png) | Packet 67 HTTP GET — curl User-Agent, frame detail |
+| [`assets/Task_5_3_2_packet67_ip_layer.png`](./assets/Task_5.3.2.png) | Packet 67 IPv4 layer expanded |
+| [`assets/Task_5_3_3_packet67_http_layer.png`](./assets/Task_5.3.3.png) | Packet 67 HTTP layer — Hypertext Transfer Protocol highlighted |
+| [`assets/Task_5_6_curl_http_full.png`](./assets/Task_5.6.png) | Full view of curl HTTP packets with packet detail |
 
 ---
 
