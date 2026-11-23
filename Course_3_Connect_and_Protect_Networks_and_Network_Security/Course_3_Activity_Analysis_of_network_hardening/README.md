@@ -48,9 +48,9 @@ As a security analyst, the task was to:
 
 | File | Description |
 |---|---|
-| [`Network_hardening_tools.pdf`](./Network_hardening_tools.pdf) | Reference guide for network hardening tools |
-| [`my_selection_hardening_tools.pdf`](./myselection_Network_hardening_tools.pdf) | Selected hardening tools (my worksheet selection) |
-| [`my_completed_security_risk_assessment.pdf`](./myanswers_Security_risk_assessment_report.pdf) | My completed report (PDF) |
+| [`Network_hardening_tools.pdf`](./assets/Network_hardening_tools.pdf) | Reference guide for network hardening tools |
+| [`my_selection_hardening_tools.pdf`](./assets/myselection_Network_hardening_tools.pdf) | Selected hardening tools (my worksheet selection) |
+| [`my_completed_security_risk_assessment.pdf`](./assets/myanswers_Security_risk_assessment_report.pdf) | My completed report (PDF) |
 
 ---
 
