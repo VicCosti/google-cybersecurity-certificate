@@ -71,7 +71,7 @@ Each project folder contains a `README.md` with scenario context, tasks complete
 | [Lab 01 — Perform a SQL Query](./Course_4_Tools_of_the_Trade_Linux_and_SQL/SQL_labs/Lab_01_Perform_a_SQL_query/README.md) | Retrieved data from a database using basic SELECT queries | `SELECT`, `FROM`, `ORDER BY` |
 | [Lab 02 — Filter a SQL Query](./Course_4_Tools_of_the_Trade_Linux_and_SQL/SQL_labs/Lab_02_Filter_a_SQL_query/README.md) | Filtered query results using WHERE conditions and comparison operators | `WHERE`, `=`, `>`, `<`, `LIKE`, `%` |
 | [Lab 03 — Apply More Filters in SQL](./Course_4_Tools_of_the_Trade_Linux_and_SQL/SQL_labs/Lab_03_Apply_more_filters_in_SQL/README.md) | Combined multiple filter conditions and used pattern matching | `AND`, `OR`, `NOT`, `LIKE`, `BETWEEN` |
-| [Lab 04 — Filter with AND, OR, and NOT](./Course_4_Tools_of_the_Trade_Linux_and_SQL/SQL_labs/Lab_04_Filter_with_AND,_OR,_and_NOT/README.md) | Applied compound logical operators to build complex security-relevant queries | `AND`, `OR`, `NOT`, Boolean logic |
+| [Lab 04 — Filter with AND, OR, and NOT](./Course_4_Tools_of_the_Trade_Linux_and_SQL/SQL_labs/Lab_04_Filter_with_AND_OR_and_NOT/README.md) | Applied compound logical operators to build complex security-relevant queries | `AND`, `OR`, `NOT`, Boolean logic |
 | [Lab 05 — Complete a SQL Join](./Course_4_Tools_of_the_Trade_Linux_and_SQL/SQL_labs/Lab_05_Complete_a_SQL_join/README.md) | Combined data from multiple tables using JOIN operations | `INNER JOIN`, `LEFT JOIN`, `RIGHT JOIN`, relational data |
  
 ---
